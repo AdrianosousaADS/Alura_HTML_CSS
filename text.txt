@@ -1,9 +1,0 @@
-h1{
-    font-weight: bold; /*texto em negrito*/
-}
-
-span{
-    color: #bd3a29; /* cor do texto */
-    border: 1px solid #bd3a29; /*borda com 1 px de largura, do tipo solida com cor*/
-    padding: 3px; /*Espaçamento interno de 10px*/
-}
